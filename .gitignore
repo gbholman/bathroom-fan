@@ -1,0 +1,16 @@
+# Hardware & PlatformIO build artifacts
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+
+# Python & virtual environments
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Database & runtime files
+backend/data/*.db
+*.log
